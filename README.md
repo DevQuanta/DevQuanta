@@ -62,10 +62,10 @@ I believe in craftsmanship, clarity, and continuous learning.
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:hello@devquanta.dev">
+  <a href="mailto:daksh@disroot.org">
     <img src="https://img.shields.io/badge/Email-%20?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/devquanta">
+  <a href="https://linkedin.com/in/technophile">
     <img src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="LinkedIn"/>
   </a>
 </p>
