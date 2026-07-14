@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```text
 I'm a developer who thrives on building clean, scalable, and maintainable systems. 
@@ -28,7 +28,7 @@ I believe in craftsmanship, clarity, and continuous learning.
 
 ---
 
-### 🛠️ Core Technologies
+### Core Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%20?style=for-the-badge&logo=rust&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Rust"/>
@@ -38,38 +38,3 @@ I believe in craftsmanship, clarity, and continuous learning.
 </p>
 
 ---
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%20?style=for-the-badge&logo=aws&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-%20?style=for-the-badge&logo=docker&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Podman-%20?style=for-the-badge&logo=podman&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Podman"/>
-  <img src="https://img.shields.io/badge/Linux-%20?style=for-the-badge&logo=linux&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Linux"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevQuanta&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevQuanta&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="Top Languages"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:daksh@disroot.org">
-    <img src="https://img.shields.io/badge/Email-%20?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/devquanta">
-    <img src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=a855f7&labelColor=1e1b4b&color=1e1b4b" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-<p align="center" style="font-size:0.9rem; color:#999;">“Code elegantly. Deploy confidently.”</p>
